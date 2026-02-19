@@ -1,4 +1,4 @@
-n=18
+n=int(input("Enter: "))
 if n==1:
         print(False)
 for i in range(2,(n//2+1)):
