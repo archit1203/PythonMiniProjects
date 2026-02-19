@@ -1,4 +1,4 @@
-print("Hello Find Prime")
+print("Hello Find Prime or not")
 n=int(input("Enter: "))
 if n==1:
         print(False)
