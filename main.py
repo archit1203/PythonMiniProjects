@@ -1,3 +1,4 @@
+print("Hello")
 n=int(input("Enter: "))
 if n==1:
         print(False)
